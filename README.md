@@ -32,4 +32,4 @@
 
 ### **Web Application**
 
-_The Web application can be accessed by visiting the following link:[Web app](https://storage.googleapis.com/www.cleanenv.app/AboutUs.html)_
+_The Web application can be accessed by visiting the following link:[Web app](https://cleanenv.app/)_
