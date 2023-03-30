@@ -25,7 +25,7 @@
 
 ### **Android App:**
 
-1.  _The .apk file is to be downloaded first from:[link](*) and installed._
+1.  _The .apk file is to be downloaded first from:[Android App](app/app-debug.apk) and installed._
 2.  _For the User(Customer) side, select the Customer option_
 3.  _For the Employee side, select the Employee option_
 
