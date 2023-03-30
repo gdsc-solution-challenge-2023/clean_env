@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467200291841",
+    "firebase_url": "https://cleanenv-4ca72-default-rtdb.firebaseio.com",
+    "project_id": "cleanenv-4ca72",
+    "storage_bucket": "cleanenv-4ca72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467200291841:android:c74966775e915cf2b8fc00",
+        "android_client_info": {
+          "package_name": "com.example.cleanenv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467200291841-8h3qh7ln0qdirq0flao9o2onc5vuvb8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWa0PIQvy2UMB5tFyPvAkFeKtGU6i0tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467200291841-8h3qh7ln0qdirq0flao9o2onc5vuvb8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
