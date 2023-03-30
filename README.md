@@ -5,6 +5,8 @@
 **GDSC solution Challenge 2023**
 ==============================
 
+[Demo Youtube Link](https://youtu.be/2XJLUvn2-Cs)
+
 
 **Project Description:**
 ----------------------
@@ -33,8 +35,5 @@
 ### **Web Application**
 
 _The Web application can be accessed by visiting the following link:[Web app](https://cleanenv.app/)_
-
-[Demo Youtube Link](https://youtu.be/2XJLUvn2-Cs)
-
 
 
